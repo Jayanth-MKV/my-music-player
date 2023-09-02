@@ -5,7 +5,7 @@ web-dev-workshop
 - Clone The Repository to your local environment
 - Use ` git clone https://github.com/Jayanth-MKV/my-music-player.git`
 - Now you will get the code in your local machine
-- Open the folder in vscode
+- Open the folder in vscode. Use ` code . `
 - run the liveserver
 
 ## Next Steps
